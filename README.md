@@ -1,16 +1,23 @@
-## Hi there 👋
+# Este sou eu 😁
 
-<!--
-**Pietrojoshua/Pietrojoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o **Pietro**, <ins>aluno da formação profissional</ins>, *casado com brawl stars* e filho do Leonardo e Gosto de Star ~~Wars~~ 
 
-Here are some ideas to get you started:
+## formação academica 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou formado em Tecnologia em informatica para Negócios
+
+Posso escrever um pequeno trecho de codigo como git status ou então trechos maiores como abaixo:
+
+```javascript
+const constante = 0 //constante precisa ser inicializada
+```
+
+```Python
+def Olamundo() {
+print('Olá, Mundo!')
+
+}
+```
+
+
+
